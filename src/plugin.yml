@@ -1,0 +1,14 @@
+name: Lobby
+main: me.NitroxMC.Lobby.Lobby
+author: NitroxMC
+version: 0.1
+commands:
+                                
+   addcoins:
+      description: Blank description112111.
+      
+                        
+   addtokens:
+      description: Blank description112111.
+ 
+  
